@@ -1,0 +1,86 @@
+﻿#eksamen_lokal_edl.txt
+
+#Eksamensinfo.nfk.no
+eksamensinfo.nfk.no
+*.eksamensinfo.nfk.no
+
+
+#ndla.no
+api.istribute.com
+app-eu.readspeaker.com
+auth.ndla.no
+cdn-a.ndlap3.seria.net
+cdn-b.ndlap3.seria.net
+cdn-c.ndlap3.seria.net
+cdn.mathjax.org
+fonts.googleapis.com
+js-agent.newrelic.com
+ndla.no
+ndla.tns-cs.net
+p.jwpcdn.com
+search.ndla.no
+seriastaticcdn.net
+static.ndla.no
+sti.ndla.no
+streaming-static.cerpus.net
+streaming.cerpus.net
+www.ndla.no
+app-eu.readspeaker.com
+*.ndlap4.ndla.no
+cdn-a.ndla.no
+cdn-b.ndla.no
+cdn-c.ndla.no
+
+
+#Ordnett.no
+*.ordnett.no
+ordnett.no
+
+
+#ordbok.uib.no
+ordbok.uib.no
+
+#Julev.no - Lulesamisk ordbok
+julev.no
+
+#miljodirektoratet.no
+miljodirektoratet.no
+*.miljodirektoratet.no
+
+#onoma.es - Spansk ordbok
+onoma.es
+*.onoma.es
+
+#LeRobert.com - Frans ordbok
+#robert-illustre.lerobert.com
+#For søkefunksjonalitet / pop-up
+dixel.bvdep.com
+*.dixel.bvdep.com
+
+
+#Google-ting - For enkelte nettsider
+www.google-analytics.com
+
+
+
+#Glosbe.com - Fransk ordbok
+fr.glosbe.com
+
+
+#LeFigaro.fr - Fransk ordbok
+#leconjugueur.lefigaro.fr
+
+#CD-Ord og IntoWords
+signon.mv-nordic.com
+signon.vitec-mv.com
+mv-login.mv-nordic.com
+dictionary.intowords.com
+online.intowords.com
+
+#URL under er nye fra 2019
+
+#Conjugaison.com
+www.conjugaison.com
+
+#P5JS.org
+p5js.org

@@ -1,0 +1,177 @@
+#External dynamic list for nettressurser som skal tillates på bakgrunn av felles nasjonal liste.
+#Dette er første utkast, og URL-filter er bare designet og testet slik at nettressursene fungerer.
+#Det er ikke tatt høyde for at nettsidene kan inneholde uønsket funksjonalitet, som f.eks chat.allkunne.no (fiktivt eksempel) 
+
+#pgsa.udir.no
+idp.feide.no
+pgsa.udir.no
+pgsf.udir.no
+*.udir.no
+id.udir.no
+idporten.difi.no
+eksamen.udir.no
+www.udir.no
+
+
+#Allkunne
+#Ser ok ut
+*.allkunne.no
+allkunne.no
+
+
+#Bioteknologirådet
+#Ser ok ut
+*.bioteknologiradet.no
+bioteknologiradet.no
+bion.no
+
+
+#Brønnøysundregisteret
+#Ser ok ut 
+*.brreg.no
+brreg.no
+#For at topp-meny skal fungere i Edge og Chrome:
+maxcdn.bootstrapcdn.com
+
+
+#FN - Globalis
+#Ser ok ut
+*.fn.no
+fn.no
+#For kart-funksjonen:
+*.tiles.mapbox.com
+globalis.s3.amazonaws.com/maptiles
+
+
+
+#LEXIN- ordbøker 
+#Ser ok ut
+lexin.udir.no
+
+
+#Lovdata 
+#Ser ok ut
+eksamen.lovdata.no
+
+
+#Norges bank 
+#Ser ok ut
+*.norges-bank.no
+
+
+#Norsksidene
+#Ser ok ut
+norsksidene.no
+#For bilder/illustrasjoner.
+#Norsksidene.no er flyttet til ressurssidene.no, så denne åpnes også.
+norsknettskole.no
+ressurssidene.no
+ressurssidene.pedit.no
+
+
+#Norsk utenrikspolitisk institutt
+#Ser ok ut
+nupi.no
+*.nupi.no
+
+
+#Psykologi tidsskrift
+#Ser ok ut
+*.psykologtidsskriftet.no
+psykologtidsskriftet.no
+
+
+#Regjeringen
+#Ser ok ut
+*.regjeringen.no
+regjeringen.no
+
+
+#Ressurser for bl.a. HTML og Javascript
+#Ser ok ut
+*.w3schools.com
+w3schools.com
+
+#Språkrådets ordbøker
+#Ser ok ut
+*.sprakradet.no
+sprakradet.no
+
+#Store norske leksikon 
+#Ser ok ut
+*.snl.no
+snl.no
+
+#Skriveverktøy 
+#Ser ok ut. Video fra vimeo.com fungerer ikke. Skal player.vimeo.com åpnes?
+writing-tool.app.fagbokforlaget.no
+
+#Statistisk sentralbyrå
+#Ser ok ut
+*.ssb.no
+ssb.no
+
+#Stortinget
+#Ser ok ut
+*.stortinget.no
+stortinget.no
+
+#Ordbok Sørsamisk
+#Ser ok ut 	
+baakoeh.oahpa.no
+*.baakoeh.oahpa.no
+
+
+#Læringsstier -Sørsamisk
+#Ser ok ut	
+kuvsje.oahpa.no
+*.kuvsje.oahpa.no
+
+
+#Nordsamisk ordbok
+#Ser ok ut	
+sanit.oahpa.no
+*.sanit.oahpa.no
+
+
+#Finsk ordbok
+#Ser ok ut	
+kielitoimistonsanakirja.fi
+*.kielitoimistonsanakirja.fi
+
+
+#Finsk ordbok
+#Ser ok ut	
+ilmainensanakirja.fi
+*.ilmainensanakirja.fi
+
+
+#Finsk ordbok
+#Ser ok ut	
+sanakirja.org
+*.sanakirja.org
+
+#O365-lisensiering
+ols.officeapps.live.com 
+activation.sls.microsoft.com
+
+#Lenker under er lagt til før våren 2019
+
+#Word Reference - Flerspråklig ordbok
+www.wordreference.com
+
+#Folkehelseinstituttet
+fhi.no
+
+#Norsk akademisk ordbok
+www.naob.no
+playapi.naob.no
+
+#Profftorget
+www.proff.no
+
+#Spansk enspråklig ordbok
+dle.rae.es
+
+#Tysk ettspråklig ordbok
+www.duden.de
