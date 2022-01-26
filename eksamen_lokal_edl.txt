@@ -1,86 +1,160 @@
-﻿#eksamen_lokal_edl.txt
+#eksamen_lokal_edl.txt
 
 #Eksamensinfo.nfk.no
-eksamensinfo.nfk.no
-*.eksamensinfo.nfk.no
+eksamensinfo.nfk.no/
+*.eksamensinfo.nfk.no/
 
 
 #ndla.no
-api.istribute.com
-app-eu.readspeaker.com
-auth.ndla.no
-cdn-a.ndlap3.seria.net
-cdn-b.ndlap3.seria.net
-cdn-c.ndlap3.seria.net
-cdn.mathjax.org
-fonts.googleapis.com
-js-agent.newrelic.com
-ndla.no
-ndla.tns-cs.net
-p.jwpcdn.com
-search.ndla.no
-seriastaticcdn.net
-static.ndla.no
-sti.ndla.no
-streaming-static.cerpus.net
-streaming.cerpus.net
-www.ndla.no
-app-eu.readspeaker.com
-*.ndlap4.ndla.no
-cdn-a.ndla.no
-cdn-b.ndla.no
-cdn-c.ndla.no
+api.istribute.com/
+app-eu.readspeaker.com/
+auth.ndla.no/
+cdn-a.ndlap3.seria.net/
+cdn-b.ndlap3.seria.net/
+cdn-c.ndlap3.seria.net/
+cdn.mathjax.org/
+fonts.googleapis.com/
+js-agent.newrelic.com/
+ndla.no/
+ndla.tns-cs.net/
+p.jwpcdn.com/
+search.ndla.no/
+seriastaticcdn.net/
+static.ndla.no/
+sti.ndla.no/
+streaming-static.cerpus.net/
+streaming.cerpus.net/
+www.ndla.no/
+app-eu.readspeaker.com/
+*.ndlap4.ndla.no/
+cdn-a.ndla.no/
+cdn-b.ndla.no/
+cdn-c.ndla.no/
+api.ndla.no/
+ca.ndlah5p.com/
+players.brightcove.net/
+api.ndla.no/
+stier.ndla.no/
+sti.ndla.no/
+
 
 
 #Ordnett.no
-*.ordnett.no
-ordnett.no
+*.ordnett.no/
+ordnett.no/
 
 
 #ordbok.uib.no
-ordbok.uib.no
+ordbok.uib.no/
 
 #Julev.no - Lulesamisk ordbok
-julev.no
+julev.no/
 
 #miljodirektoratet.no
-miljodirektoratet.no
-*.miljodirektoratet.no
+miljodirektoratet.no/
+*.miljodirektoratet.no/
 
 #onoma.es - Spansk ordbok
-onoma.es
-*.onoma.es
-
-#LeRobert.com - Frans ordbok
-#robert-illustre.lerobert.com
-#For søkefunksjonalitet / pop-up
-dixel.bvdep.com
-*.dixel.bvdep.com
+onoma.es/
+*.onoma.es/
 
 
-#Google-ting - For enkelte nettsider
-www.google-analytics.com
-
-
-
-#Glosbe.com - Fransk ordbok
-fr.glosbe.com
-
-
-#LeFigaro.fr - Fransk ordbok
-#leconjugueur.lefigaro.fr
 
 #CD-Ord og IntoWords
-signon.mv-nordic.com
-signon.vitec-mv.com
-mv-login.mv-nordic.com
-dictionary.intowords.com
-online.intowords.com
+signon.mv-nordic.com/
+signon.vitec-mv.com/
+mv-login.mv-nordic.com/
+dictionary.intowords.com/
+online.intowords.com/
+mvidsignonapi.vitec-mv.com/
+mvidlegacy.vitec-mv.com/
 
 #URL under er nye fra 2019
 
 #Conjugaison.com
-www.conjugaison.com
+www.conjugaison.com/
 
 #P5JS.org
-p5js.org
+p5js.org/
+
+#Søk og skriv
+sokogskriv.no/
+*.sokogskriv.no/
+
+#Thesaurus og Dictionary
+www.thesaurus.com/
+thesaurus.com/
+images.ctfassets.net/
+dictionary.com/
+www.dictionary.com/
+
+#Smartbok.no
+smartbok.no/
+www.smartbok.no/
+*.smartbok.no/
+api.spiroo.no/
+spiroo.gyldendal.no/
+tibet.gyldendal.no/
+ajax.googleapis.com/
+bok.smartbok.no/
+bok2.smartbok.no/
+smartbok.kitaboo.com/
+fonts.googleapis.com/
+cdp.rapidssl.com/
+status.rapidssl.com/
+cacerts.rapidssl.com/
+webapi.gyldendal.no/
+cdn.gyldendal.no/
+gyldendalservices.kitaboo.eu/
+service.webappella.com/
+
+#Lokus.no
+lokus.no/
+*.lokus.no/
+
+#Unibok. Aschehougs e-bøker. Kan lastes ned
+*.unibok.no/
+www.unibok.no/
+
+#Retriever.no
+web.retriever-info.com/
+www.retriever.no/
+retriever.no/
+app.retriever-info.com/
+
+#Brettboka.no
+brettboka.no/
+portal.brettboka.no/
+app.brettboka.no/
+api.brettboka.no/
+files.brettboka.no/
+sp.brettboka.no/
+idp.feide.no/
+
+#Tres Digital - Spansk Cappelen Damm
+espanoltresdigital.cappelendamm.no/
+etd.cappelendamm.no/
+ssologin.cappelendamm.no/
+www.cappelendammundervisning.no/
+
+#For Lingdys
+silence.lingit.no/
+konto.lingit.no/
+api.webappella.com/
+service.webappella.com/
+
+#Tegnordboka
+www.minetegn.no/
+www.tegnordbok.no/
+use.edgefonts.net/
+p.typekit.net/
+
+#Rms.standard.no
+#For lisensierte PDF fra Norsk Standard som krever nettilgang
+rms.standard.no/
+
+#campus.inkrement.no
+campus.inkrement.no/
+
+#www.byggforsk.no
+www.byggforsk.no/
