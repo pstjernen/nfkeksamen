@@ -1,177 +1,384 @@
-#External dynamic list for nettressurser som skal tillates på bakgrunn av felles nasjonal liste.
-#Dette er første utkast, og URL-filter er bare designet og testet slik at nettressursene fungerer.
-#Det er ikke tatt høyde for at nettsidene kan inneholde uønsket funksjonalitet, som f.eks chat.allkunne.no (fiktivt eksempel) 
+#External dynamic list for nettressurser som skal tillates pÃ¥ bakgrunn av felles nasjonal liste.
+#Dette er fÃ¸rste utkast, og URL-filter er bare designet og testet slik at nettressursene fungerer.
+#Det er ikke tatt hÃ¸yde for at nettsidene kan inneholde uÃ¸nsket funksjonalitet, som f.eks chat.allkunne.no (fiktivt eksempel) 
 
 #pgsa.udir.no
-idp.feide.no
-pgsa.udir.no
-pgsf.udir.no
-*.udir.no
-id.udir.no
-idporten.difi.no
-eksamen.udir.no
-www.udir.no
-
+idp.feide.no/
+pgsa.udir.no/
+pgsf.udir.no/
+*.udir.no/
+udir.no/
+id.udir.no/
+idporten.difi.no/
+eksamen.udir.no/
+www.udir.no/
+*.leseweb.dk/
+auth.dataporten.no/
+oidc.difi.no/
+*.storage.googleapis.com/
+storage.googleapis.com/
+deltager.eps.udir.no/
+udir.prod-cdn.gcp.taocloud.org/
+cdn-prod.gcp-eu.taocloud.org/
+cdn.plyr.io/
+eksamen-og-prover.statped.no/
 
 #Allkunne
 #Ser ok ut
-*.allkunne.no
-allkunne.no
+*.allkunne.no/
+allkunne.no/
 
 
-#Bioteknologirådet
+#BioteknologirÃ¥det
 #Ser ok ut
-*.bioteknologiradet.no
-bioteknologiradet.no
-bion.no
+*.bioteknologiradet.no/
+bioteknologiradet.no/
+bion.no/
 
 
-#Brønnøysundregisteret
+#BrÃ¸nnÃ¸ysundregisteret
 #Ser ok ut 
-*.brreg.no
-brreg.no
+*.brreg.no/
+brreg.no/
 #For at topp-meny skal fungere i Edge og Chrome:
-maxcdn.bootstrapcdn.com
+maxcdn.bootstrapcdn.com/
 
 
 #FN - Globalis
 #Ser ok ut
-*.fn.no
-fn.no
+*.fn.no/
+fn.no/
 #For kart-funksjonen:
-*.tiles.mapbox.com
-globalis.s3.amazonaws.com/maptiles
+*.tiles.mapbox.com/
+globalis.s3.amazonaws.com/
 
 
-
-#LEXIN- ordbøker 
+#LEXIN- ordbÃ¸ker 
 #Ser ok ut
-lexin.udir.no
+lexin.udir.no/
+editorportal.westeurope.cloudapp.azure.com/
+lexin.oslomet.no/
+editorportal.oslomet.no/
+speech.leseweb.dk/
+cdn.polyfill.io/
+stackpath.bootstrapcdn.com/
+cacerts.digicert.com/
 
 
 #Lovdata 
 #Ser ok ut
-eksamen.lovdata.no
+eksamen.lovdata.no/
 
 
 #Norges bank 
 #Ser ok ut
-*.norges-bank.no
+*.norges-bank.no/
 
 
 #Norsksidene
 #Ser ok ut
-norsksidene.no
+norsksidene.no/
 #For bilder/illustrasjoner.
-#Norsksidene.no er flyttet til ressurssidene.no, så denne åpnes også.
-norsknettskole.no
-ressurssidene.no
-ressurssidene.pedit.no
+#Norsksidene.no er flyttet til ressurssidene.no, sÃ¥ denne Ã¥pnes ogsÃ¥.
+norsknettskole.no/
+ressurssidene.no/
+ressurssidene.pedit.no/
 
 
 #Norsk utenrikspolitisk institutt
 #Ser ok ut
-nupi.no
-*.nupi.no
+nupi.no/
+*.nupi.no/
 
 
 #Psykologi tidsskrift
 #Ser ok ut
-*.psykologtidsskriftet.no
-psykologtidsskriftet.no
+*.psykologtidsskriftet.no/
+psykologtidsskriftet.no/
 
 
 #Regjeringen
 #Ser ok ut
-*.regjeringen.no
-regjeringen.no
+*.regjeringen.no/
+regjeringen.no/
 
 
 #Ressurser for bl.a. HTML og Javascript
 #Ser ok ut
-*.w3schools.com
-w3schools.com
+*.w3schools.com/
+w3schools.com/
 
-#Språkrådets ordbøker
+#SprÃ¥krÃ¥dets ordbÃ¸ker
 #Ser ok ut
-*.sprakradet.no
-sprakradet.no
+*.sprakradet.no/
+sprakradet.no/
 
 #Store norske leksikon 
 #Ser ok ut
-*.snl.no
-snl.no
+*.snl.no/
+snl.no/
 
-#Skriveverktøy 
-#Ser ok ut. Video fra vimeo.com fungerer ikke. Skal player.vimeo.com åpnes?
-writing-tool.app.fagbokforlaget.no
+#SkriveverktÃ¸y 
+#Ser ok ut. Video fra vimeo.com fungerer ikke. Skal player.vimeo.com Ã¥pnes?
+writing-tool.app.fagbokforlaget.no/
+skriveverktoy.app.fagbokforlaget.no/
 
-#Statistisk sentralbyrå
+#Statistisk sentralbyrÃ¥
 #Ser ok ut
-*.ssb.no
-ssb.no
+*.ssb.no/
+ssb.no/
 
 #Stortinget
 #Ser ok ut
-*.stortinget.no
-stortinget.no
+*.stortinget.no/
+stortinget.no/
 
-#Ordbok Sørsamisk
+#Ordbok SÃ¸rsamisk
 #Ser ok ut 	
-baakoeh.oahpa.no
-*.baakoeh.oahpa.no
+baakoeh.oahpa.no/
+*.baakoeh.oahpa.no/
 
 
-#Læringsstier -Sørsamisk
+#LÃ¦ringsstier -SÃ¸rsamisk
 #Ser ok ut	
-kuvsje.oahpa.no
-*.kuvsje.oahpa.no
+kuvsje.oahpa.no/
+*.kuvsje.oahpa.no/
 
 
 #Nordsamisk ordbok
 #Ser ok ut	
-sanit.oahpa.no
-*.sanit.oahpa.no
+sanit.oahpa.no/
+*.sanit.oahpa.no/
 
 
 #Finsk ordbok
 #Ser ok ut	
-kielitoimistonsanakirja.fi
-*.kielitoimistonsanakirja.fi
+kielitoimistonsanakirja.fi/
+*.kielitoimistonsanakirja.fi/
 
 
 #Finsk ordbok
 #Ser ok ut	
-ilmainensanakirja.fi
-*.ilmainensanakirja.fi
+ilmainensanakirja.fi/
+*.ilmainensanakirja.fi/
 
 
 #Finsk ordbok
 #Ser ok ut	
-sanakirja.org
-*.sanakirja.org
+sanakirja.org/
+*.sanakirja.org/
 
 #O365-lisensiering
-ols.officeapps.live.com 
-activation.sls.microsoft.com
+#ols.officeapps.live.com 
+#activation.sls.microsoft.com
 
-#Lenker under er lagt til før våren 2019
+#Lenker under er lagt til fÃ¸r vÃ¥ren 2019
 
-#Word Reference - Flerspråklig ordbok
-www.wordreference.com
+
+#Word Reference - FlersprÃ¥klig ordbok
+www.wordreference.com/
 
 #Folkehelseinstituttet
-fhi.no
+fhi.no/
+www.fhi.no/
 
 #Norsk akademisk ordbok
-www.naob.no
-playapi.naob.no
+www.naob.no/
+playapi.naob.no/
+naob.no/
 
 #Profftorget
-www.proff.no
+www.proff.no/
 
-#Spansk enspråklig ordbok
-dle.rae.es
+#Spansk ensprÃ¥klig ordbok
+dle.rae.es/
 
-#Tysk ettspråklig ordbok
-www.duden.de
+#Tysk ettsprÃ¥klig ordbok
+www.duden.de/
+cdn.duden.de/
+
+#Nytt fra 2020
+#Adobe Help:
+help.adobe.com/
+helpx.adobe.com/
+adobesearch.adobe.io/
+
+#Islex â€“ islandsk ordbok
+islex.arnastofnun.is/
+
+#Kildekompasset
+kildekompasset.no/
+cdnjs.cloudflare.com/
+
+#LeseverktÃ¸y
+leseverktoy.app.fagbokforlaget.no/
+fonts.googleapis.com/
+fonts.gstatic.com/
+code.jquery.com/
+
+#Lexico â€“ engelsk/spansk ordbok
+www.lexico.com/
+
+#Mattilsynet
+www.mattilsynet.no/
+
+#Mediebedriftenes landsforening
+www.mediebedriftene.no/
+
+#Medietilsynet
+medietilsynet.no/
+www.medietilsynet.no/
+
+#Min stemme â€“ Eidsvoll 1814
+www.minstemme.no/
+inspera-binarycontent.s3.amazonaws.com/
+apigateway.dimu.org/
+#For bildevisning:
+dms09.dimu.org/
+
+#NGU - Norges geologiske undersÃ¸kelse
+www.ngu.no/
+geo.ngu.no/
+opencache.statkart.no/
+
+#Noklus.no
+www.noklus.no/
+*.noklus.no/
+
+#Olympiatoppen
+www.olympiatoppen.no/
+
+#Power Thesaurus â€“ engelsk ordbok
+www.powerthesaurus.org/
+powerthesaurus.scdn1.secure.raxcdn.com/
+api.powerthesaurus.org/
+
+#Reiseliv
+reiseliv.portfolio.no/
+
+#Tangorin â€“ japansk ordbok
+tangorin.com/
+
+#Utdanningsdirektoratet
+www.udir.no/
+
+#VigoIKS Eksamen
+www.vigoiks.no/
+
+#Viten.no
+www.viten.no/
+viten.no/
+
+
+#Diverse sertifikatsjekk
+oscp.apple.com/
+cacerts.digicert.com/
+cdp.rapidssl.com/
+status.rapidssl.com/
+cacerts.rapidssl.com/
+
+#Oppdatert hÃ¸st 2020
+
+#Tangorin â€“japansk ordbok
+tangorin.com/
+
+#VigoIKS Eksamen
+www.vigoiks.no/
+
+#Viten -Naturfagsenteret
+www.viten.no/
+
+#Nytt fra 2021
+
+#www.verbix.com
+www.verbix.com/
+verbix.com/
+api.verbix.com/
+
+#www.norgeshistorie.no
+www.norgeshistorie.no/
+norgeshistorie.no/
+
+#www.psykiskhelse.no
+www.psykiskhelse.no/
+psykiskhelse.no/
+
+#BaneNors nettsider	
+trv.banenor.no/
+trv.opm.jbv.no/
+trv.jbv.no/
+orv.banenor.no/
+
+#Helsedirektoratet	
+helsedirektoratet.no/
+*.helsedirektoratet.no/
+
+#Norsk helseinformatikk	
+nhi.no/
+*.nhi.no/
+
+
+#Felleskatalogen	
+felleskatalogen.no/
+*.felleskatalogen.no/
+
+
+#SjÃ¸fartsdirektoratet	
+sjofartsdir.no/
+*.sjofartsdir.no/
+sdir.no/
+*.sdir.no/
+
+
+#Nasjonalbiblioteket	
+nb.no/
+*.nb.no/
+#For meny-grafikk
+#cdnjs.cloudflare.com/
+#*.gstatic.com
+#fonts.googleapis.com
+#arn11s04-in-f14.1e100.net
+
+#Norsk presseforbund	
+presse.no/
+*.presse.no/
+
+#Lenker under er lagt til fÃ¸r vÃ¥ren 2019
+
+#Vegvesen
+www.vegvesen.no/
+
+#Norges lastebilforbund
+lastebil.no/
+
+#E-helse
+finnkode.ehelse.no/
+
+#Folkehelseinstituttet
+fhi.no/
+
+#Helfo
+helfo.no/
+www.helfo.no/
+
+#Barne,ungdom og familiedirektoratet
+bufdir.no/
+
+#Artsbanken
+artsdatabanken.no/
+artsobservasjoner.no/
+*.artsdatabanken.no/
+gatekeeper2.geonorge.no/
+
+#rovdata
+rovdata.no/
+
+#Landbruksdirektoratet
+landbruksdirektoratet.no/
+www.landbruksdirektoratet.no/
+
+#BioÃ¸konomi
+nibio.no/
+
+#International Maritime Organization
+www.imo.org/
